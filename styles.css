@@ -1,0 +1,15 @@
+body{
+
+	background-image: url(https://img.freepik.com/free-photo/top-view-tasty-fresh-grapefruits-juicy-fruit-slices-light-blue-surface_140725-88173.jpg?size=626&ext=jpg);
+	background-size: cover;
+}
+
+h1
+{
+	text-align: center;
+	font-size: xx-large;
+	color:red;
+}
+ol{
+	display: b;
+}
